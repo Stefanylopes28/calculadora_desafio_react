@@ -1,4 +1,3 @@
-// App.js
 import { useState } from "react";
 import * as S from "./style";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
